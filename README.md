@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @ShiyiH313
+- 👀 I’m an IT graduate with a Sociology background.
+- 🚀 <strong>Programming Languages:</strong> C, C++, C#, Python, Java, R
+- 🚀 <strong>Frontend Development:</strong> HTML, CSS, Bootstrap, JavaScript
+- 🚀 <strong>Backend Development:</strong> Node, Express, EJS, SQL, NoSQL
+- 🚀 <strong>Others:</strong> Git, RESTful APIs, React, Microsoft Office, NVivo
+- 🧘🏽‍♂️ I love exploring the interaction between technology and humanity... and sci-fi of course.
+- 📖 I’m currently rereading <em>Hyperion</em>, one of my favourites!
+- 📫 Email: shiyihuang0526@gmail.com
+- 😄 Pronouns: SHE/HER
+
